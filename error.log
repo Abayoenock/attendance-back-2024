@@ -1,0 +1,25 @@
+2024-08-26T02:40:44.155Z [error]: Cannot destructure property 'SN' of 'data.data' as it is undefined.
+2024-08-26T02:43:31.559Z [error]: Cannot destructure property 'SN' of 'data.data' as it is undefined.
+2024-08-26T02:44:07.114Z [error]: res is not defined
+2024-08-27T12:11:27.497Z [error]: sendSMS is not a function
+2024-08-28T09:53:17.375Z [error]: Unexpected end of JSON input
+2024-08-28T09:56:28.329Z [error]: Unexpected end of JSON input
+2024-08-28T10:03:22.135Z [error]: Unexpected end of JSON input
+2024-08-28T10:05:10.364Z [error]: Unexpected end of JSON input
+2024-08-28T12:26:50.224Z [error]: Unexpected end of JSON input
+2024-08-28T12:41:29.556Z [error]: Unexpected end of JSON input
+2024-08-28T12:43:09.268Z [error]: Unexpected end of JSON input
+2024-08-28T12:48:00.589Z [error]: Unexpected end of JSON input
+2024-08-28T12:49:59.329Z [error]: Unexpected end of JSON input
+2024-08-28T12:51:47.338Z [error]: Unexpected end of JSON input
+2024-09-04T16:15:35.086Z [error]: Unexpected end of JSON input
+2024-09-04T16:17:20.229Z [error]: Unexpected end of JSON input
+2024-09-04T16:18:30.427Z [error]: Unexpected end of JSON input
+2024-09-04T16:19:01.334Z [error]: Unexpected end of JSON input
+2024-09-04T16:26:08.371Z [error]: Unexpected end of JSON input
+2024-09-04T16:30:56.087Z [error]: Unexpected end of JSON input
+2024-09-04T16:32:49.094Z [error]: Unexpected end of JSON input
+2024-09-10T03:39:23.105Z [error]: Invalid topic empty_topic_list
+2024-09-10T03:59:08.899Z [error]: Invalid topic empty_topic_list
+2024-09-10T04:03:15.578Z [error]: Invalid topic empty_topic_list
+2024-09-10T04:03:38.717Z [error]: Connection closed
